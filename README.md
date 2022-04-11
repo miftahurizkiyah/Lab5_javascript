@@ -22,3 +22,20 @@ Tugas : Pemograman Web (Pertemuan ke-6 - Praktikum ke-5) <br>
 
 * Pemakaian method dalam objek <br>
 ![Pemakaian method dalam objek](gambar/33.png)
+
+<br>
+
+* Pemakaian Prompt <br>
+![Pemakaian Prompt](gambar/4.png)
+
+<br>
+
+* Pembuatan fungsi dan cara pemanggilannya <br>
+![Pembuatan fungsi dan cara pemanggilannya](gambar/5.png)
+
+<br>
+
+## Dasar Pemrograman di Javascript
+
+* Operasi dasar aritmatika<br>
+![Operasi dasar aritmatika](gambar/6.png)
