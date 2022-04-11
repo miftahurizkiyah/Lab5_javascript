@@ -77,3 +77,4 @@ Berikut Langkah-langkah pengenalan Javascript.
 ![HTML DOM](gambar/11.png)
 
 ## Thank You
+Miftahu Rizkiyah
