@@ -73,3 +73,5 @@ Tugas : Pemograman Web (Pertemuan ke-6 - Praktikum ke-5) <br>
 
 * Pilihan menggunakan checkBox dengan perhitungan otomatis <br>
 ![HTML DOM](gambar/11.png)
+
+## Thank You
