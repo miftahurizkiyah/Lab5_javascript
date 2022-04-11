@@ -6,6 +6,8 @@ Kelas : TI.20.B.1 <br>
 Tugas : Pemograman Web (Pertemuan ke-6 - Praktikum ke-5) <br>
 
 -----------------------------------------
+Pada Praktikum kali ini kita akan membuat lab_Javascript.<br>
+Berikut Langkah-langkah pengenalan Javascript.
 
 ## **Pengenalan Javascript**
 
