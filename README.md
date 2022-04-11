@@ -39,3 +39,22 @@ Tugas : Pemograman Web (Pertemuan ke-6 - Praktikum ke-5) <br>
 
 * Operasi dasar aritmatika<br>
 ![Operasi dasar aritmatika](gambar/6.png)
+
+<br>
+
+* Seleksi kondisi (if..else) <br>
+![Seleksi kondisi if..else](gambar/7a.png)<br><br>
+![Seleksi kondisi if..else](gambar/7b.png)
+
+<br>
+
+* Penggunaan operator switch untuk seleksi kondisi <br>
+![Penggunaan operator switch untuk seleksi kondisi](gambar/8a.png)<br><br>
+![Penggunaan operator switch untuk seleksi kondisi](gambar/8b.png)
+
+<br>
+
+## Pembuatan Form
+
+* Form Input <br>
+![Form Input](gambar/9.png)
