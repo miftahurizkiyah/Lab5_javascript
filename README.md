@@ -58,3 +58,18 @@ Tugas : Pemograman Web (Pertemuan ke-6 - Praktikum ke-5) <br>
 
 * Form Input <br>
 ![Form Input](gambar/9.png)
+
+<br>
+
+* Form Button <br>
+![Form Button](gambar/10a.png)<br><br>
+![Form Button](gambar/10b.png)<br><br>
+![Form Button](gambar/10c.png)<br><br>
+![Form Button](gambar/10d.png)
+
+<br>
+
+## HTML DOM
+
+* Pilihan menggunakan checkBox dengan perhitungan otomatis <br>
+![HTML DOM](gambar/11.png)
